@@ -1,3 +1,3 @@
-VR Halloween Experience
+#VRHalloweenExperience
 
 Trigger Code for Unity Halloween Experience 
